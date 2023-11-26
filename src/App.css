@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+form input[type="text"],
+form textarea{
+  display: block;
+  width: 150px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  padding: 10px 25px;
+}
+form input[type="submit"]{
+  padding: 10px 15px;
+  background-color: aqua;
+  color: black;
+  border: transparent;
+
+}
